@@ -1,0 +1,20 @@
+[
+  {
+    "userId": "U1745773794329",
+    "namaLengkap": "Peri",
+    "email": "peri.com",
+    "nomorHP": "123",
+    "password": "123",
+    "profilRisiko": "Konservatif",
+    "portfolio": { "transaksiList": [] }
+  },
+  {
+    "userId": "U1745774505151",
+    "namaLengkap": "dapa",
+    "email": "dapa",
+    "nomorHP": "1234",
+    "password": "dapa",
+    "profilRisiko": "Konservatif",
+    "portfolio": { "transaksiList": [] }
+  }
+]
